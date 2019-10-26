@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-Medicine</string>
+    <string name="indication">Fever ans Mild to moderate pain such as osteoarthritis, rheumatoid arthritis, chronic low back pain, renal stone pain, neuropathic pain, toothache, migraine, postoperative mild to moderate pain.</string>
+    <string name="mode_pf_action">Paracetamol exhibits analgesic action by peripheral blockage of pain impulse generation. It produces antipyresis by inhibiting the hypothalamic heat-regulating centre. Its weak anti-inflammatory activity is related to inhibition of prostaglandin synthesis in the CNS.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_design"
+    android:orientation="vertical"
+    tools:context=".AccountcreatedActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="60dp"
+        android:text="Your account has been created successfully"
+        android:textSize="20sp"
+        />
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Log In"
+        android:textSize="20sp"
+        android:id="@+id/LogIn_btn"
+        />
+
+
+</LinearLayout>
