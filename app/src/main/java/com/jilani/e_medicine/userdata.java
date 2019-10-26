@@ -13,6 +13,9 @@ public class userdata {
         this.password = password;
     }
 
+    public userdata() {
+    }
+
     public String getUid() {
         return uid;
     }
